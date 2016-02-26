@@ -30,32 +30,32 @@ Usage:
   
   Methods for API: 
   
-	  Search Channels
-```php
-$channels = $twitch->searchChannels();
-```
+  Search Channels
+  ```php
+  $channels = $twitch->searchChannels();
+  ```
 	  
-	  Search Streams
-	  ```php
-	  $streams = $twitch->searchStream();
-	  ```
+  Search Streams
+  ```php
+  $streams = $twitch->searchStream();
+  ```
 	  
-	  Search Games 
-	  ```php
-	  $games = $twitch->searchGames();
-	  ```
+  Search Games 
+  ```php
+  $games = $twitch->searchGames();
+  ```
 	  
-	  Get Featured 
-	  ```php
-	  $featured = $twitch->featured();
-	  ```
+  Get Featured 
+  ```php
+  $featured = $twitch->featured();
+  ```
 	  
-	  Get Games 
-	  ```php
-	  $games = $twitch->games();
-	  ```
+  Get Games 
+  ```php
+  $games = $twitch->games();
+  ```
 	  
-	  Get Teams
-	  ```php
-	  $teams = $twitch->team();
-	  ````
+  Get Teams
+  ```php
+  $teams = $twitch->team();
+  ````
