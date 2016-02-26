@@ -28,6 +28,9 @@ Usage:
   $twitch->raw($url);
   ```
   
+  
+  
+  
   Methods for API: 
   
   Search Channels
