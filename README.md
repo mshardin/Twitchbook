@@ -31,9 +31,9 @@ Usage:
   Methods for API: 
   
 	  Search Channels
-	  ```php
-	  $channels = $twitch->searchChannels();
-	  ```
+```php
+$channels = $twitch->searchChannels();
+```
 	  
 	  Search Streams
 	  ```php
