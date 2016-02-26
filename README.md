@@ -15,10 +15,10 @@ Usage:
   
   Set your twitch client id
   ```php
-	$twitch->setClientId("r84i710q1xk50wmuuketk65fbego1j5");
-	```
+  $twitch->setClientId("r84i710q1xk50wmuuketk65fbego1j5");
+  ```
 	
-	Set which twitch version to use
-	```php
-	$twitch->setApiVersion(3);
+  Set which twitch version to use
+  ```php
+  $twitch->setApiVersion(3);
   ```
